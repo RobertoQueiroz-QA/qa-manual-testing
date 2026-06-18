@@ -1,4 +1,4 @@
-Projeto de Testes Manuais/Automatizados
+Projeto de Testes Manuais
 
 Este projeto demonstra conhecimentos em:
 
@@ -18,4 +18,4 @@ Ferramentas
 - GitHub
 - Jira
 - Testes Manuais
-- cypress
+  
